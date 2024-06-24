@@ -28,15 +28,15 @@ Getting Started
 
 To run the testbench and verify the FIFO design:
 
-1. **Clone the repository**:
-   ```bash
+1. Clone the repository:
+   bash
    git clone https://github.com/MuddasirAttar/parameterized-FIFO.git
    cd parameterized-FIFO
-   ```
+   
 
-2. **Ensure you have a SystemVerilog simulator installed** (e.g., ModelSim, VCS, etc.).
+2. Ensure you have a SystemVerilog simulator installed(e.g., ModelSim, VCS, etc.).
 
-3. Run the simulation**:
+3. Run the simulation:
    ```bash
    vsim -do "run -all" qs_fifo_tb.sv
    ```

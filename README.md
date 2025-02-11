@@ -6,8 +6,8 @@ This project demonstrates a parameterized FIFO (First In, First Out) design impl
 
 Features
 
-- Parameterized Design**: Easily adjust data width and depth.
-- Robust Testbench**: Includes comprehensive tests for full and empty conditions.
+- Parameterized Design: Easily adjust data width and depth.
+- Robust Testbench: Includes comprehensive tests for full and empty conditions.
 - Comprehensive Coverage**: Ensures the FIFO behaves correctly under various scenarios.
 
 Design
